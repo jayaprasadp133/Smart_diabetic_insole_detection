@@ -120,28 +120,6 @@ UI Dashboard
 
 ---
 
-## 📂 Project Structure
-project/
-│
-├── esp32_code/
-│ ├── left_shoe.ino
-│ └── right_shoe.ino
-│
-├── python_server/
-│ ├── main.py
-│ ├── model.py
-│ └── data_collection.py
-│
-├── dataset/
-│ └── dataset.csv
-│
-├── model/
-│ └── foot_model.pkl
-│
-├── ui/
-│ └── dashboard.py
-│
-└── README.md
 
 
 
