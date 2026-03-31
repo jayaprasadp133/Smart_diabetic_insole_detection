@@ -12,7 +12,7 @@ PORT = 80
 
 # ---------------- WEATHER CONFIG ----------------
 
-API_KEY = "ab4aeb0c2a0aaef2bcec8111e2b8fa0e"
+API_KEY = "open_weather_api_eky"
 
 LAT = 10.7870
 LON = 79.1378
