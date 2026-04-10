@@ -121,8 +121,8 @@ UI Dashboard
 ---
 
 
-##Author
-- Jaya Prasad
-- IoT and Embedded Systems Engineer
+## Author
+Jaya Prasad
+IoT and Embedded Systems Engineer
 
 ---
