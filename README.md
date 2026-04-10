@@ -122,7 +122,7 @@ UI Dashboard
 
 
 ## Author
-Jaya Prasad
+Jaya Prasad, 
 IoT and Embedded Systems Engineer
 
 ---
