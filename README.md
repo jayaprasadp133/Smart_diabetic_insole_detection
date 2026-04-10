@@ -121,14 +121,8 @@ UI Dashboard
 ---
 
 
-
+##Author
+- Jaya Prasad
+- IoT and Embedded Systems Engineer
 
 ---
-
-If you want next level:
-
-- ✅ GitHub repo structure with files  
-- ✅ README with badges & images  
-- ✅ Deployment guide (very impressive for interview)  
-
-Just tell 👍
